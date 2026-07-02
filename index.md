@@ -12,19 +12,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Cybersecurity portfolio guide
 
-## step 1
-log into github and create repository
+1. step 1 create your repository.
+log into github and create your repository. you can do this by clicking the green book on your dashboard 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![Branching](create.png)
 
-## Header 2
+2. name your repository.
+The name of the repository will be the name of the website so keep that in mind. The repository also needs to end in github.io  
+![Branching](Screenshot 2026-07-02 124315 - Copy.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+3. Create new file
+Create a file to start your repository
+![Branching](new file.png)
 
-### Header 3
-
+4. Index.html
+Create a basic index.html file.(The naming is important). i have left the html requied down below to be copied
+once you have entered the file click commit change 
+![Branching](htmlindex.png)
 ```html
 // html code for index file
 <!DOCTYPE html>
@@ -40,14 +44,30 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 </body>
 </html>
 
-```
+5. Navigate to settings
+![Branching](settings.png)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+6. Navigate to pages
+once you arrive at the pages part of settings we need to change the branch to the main branch.
+![Branching](branch.png)
+
+
+7. testing the basic version of your website.
+
+![Branching](test website.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Header 4
 
