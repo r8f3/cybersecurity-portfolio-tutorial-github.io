@@ -25,12 +25,21 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+```html
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website Homepage</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is the main landing page.</p>
+</body>
+</html>
+
 ```
 
 ```ruby
