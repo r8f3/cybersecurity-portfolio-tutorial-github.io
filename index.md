@@ -65,6 +65,8 @@ once you arrive at the pages part of settings we need to change the branch to th
 2. Scroll down to pick a theme and choose a theme fitting to you
 ![Branching](pick a theme.png)
 
+3. pick the theme you would like to use from the List.
+![Branching](pick a theme.png)
 
 
 
