@@ -12,19 +12,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Cybersecurity portfolio guide
 
-1.a
-
-2.a
-
-3.
-4.
-5.
-6. create your repository.
+1. Create your repository.
 log into github and create your repository. you can do this by clicking the green book on your dashboard 
 
 ![Branching](create.png)
 
-2. name your repository.
+2. Name your repository.
 The name of the repository will be the name of the website so keep that in mind. The repository also needs to end in github.io  
 ![Branching](Screenshot 2026-07-02 124315 - Copy.png)
 
@@ -50,6 +43,7 @@ once you have entered the file click commit change
     <p>This is the main landing page.</p>
 </body>
 </html>
+```
 
 5. Navigate to settings
 ![Branching](settings.png)
@@ -59,8 +53,7 @@ once you arrive at the pages part of settings we need to change the branch to th
 ![Branching](branch.png)
 
 
-7. testing the basic version of your website.
-
+7. Testing the basic version of your website.
 ![Branching](test website.png)
 
 
