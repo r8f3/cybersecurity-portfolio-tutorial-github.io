@@ -84,10 +84,9 @@ once you arrive at the pages part of settings we need to change the branch to th
 
 ## Configering your website
 
-1. in your _config.yml 
+1. in your _config.yml you can change the tittle and description for your website as shown in the second imiage
 ![Branching](change file title.png) 
-
-
+![branching]what this changes.png
 
 #### Header 4
 
