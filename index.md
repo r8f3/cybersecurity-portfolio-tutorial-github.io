@@ -76,6 +76,9 @@ once you arrive at the pages part of settings we need to change the branch to th
 6. Return to your repo and delete the index.html file and upload the 3 files we downloaded 
 ![Branching](delete imiage.png)
 
+7. Upload files
+![Branching](upload file.png)
+
 
 
 
