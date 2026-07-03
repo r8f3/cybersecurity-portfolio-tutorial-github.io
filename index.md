@@ -69,6 +69,8 @@ once you arrive at the pages part of settings we need to change the branch to th
 ![Branching](pick a theme.png)
 
 
+4. There are 3 main files we need to download  (index.md, _config.yml and Gemfile)
+![Branching](the 3 files you need.png)
 
 
 
