@@ -56,8 +56,14 @@ once you arrive at the pages part of settings we need to change the branch to th
 7. Testing the basic version of your website.
 ![Branching](test website.png)
 
+# Installing a theme
+
+1. Click add jekyll theme 
+![Branching](theme.png)
 
 
+2. Scroll down to pick a theme and choose a theme fitting to you
+![Branching](pick a theme.png)
 
 
 
