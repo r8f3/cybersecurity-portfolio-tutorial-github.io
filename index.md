@@ -74,7 +74,7 @@ once you arrive at the pages part of settings we need to change the branch to th
 ![Branching](download file.png)
 
 6. Return to your repo and delete the index.html file and upload the 3 files we downloaded 
-![Branching](deleteimiage.png)
+![Branching](delete imiage.png)
 
 
 
