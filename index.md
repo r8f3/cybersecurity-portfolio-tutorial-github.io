@@ -88,7 +88,15 @@ once you arrive at the pages part of settings we need to change the branch to th
 ![Branching](change file title.png) 
 ![branching](what this changes.png)
 
-2. configuering The rest of your website
+2. configuering The rest of your website. this can be done through the index.md file. this file is structured in a way to show you the basic syntax.
+such as # = Heading 1 as seen in the image
+![Branching](format.png)
+
+
+3. A in use example of structuring this file
+![Branching](Screenshot 2026-07-03 151445.png)
+
+
 
 #### Header 4
 
