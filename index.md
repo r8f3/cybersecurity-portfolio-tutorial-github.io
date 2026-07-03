@@ -6,9 +6,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Cybersecurity portfolio guide
 
@@ -29,6 +26,7 @@ Create a file to start your repository
 Create a basic index.html file.(The naming is important). i have left the html requied down below to be copied
 once you have entered the file click commit change 
 ![Branching](htmlindex.png)
+
 ```html
 // html code for index file
 <!DOCTYPE html>
