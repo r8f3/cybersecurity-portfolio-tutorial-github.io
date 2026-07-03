@@ -12,7 +12,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Cybersecurity portfolio guide
 
-1. step 1 create your repository.
+1.a
+
+2.a
+
+3.
+4.
+5.
+6. create your repository.
 log into github and create your repository. you can do this by clicking the green book on your dashboard 
 
 ![Branching](create.png)
