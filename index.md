@@ -72,9 +72,11 @@ once you arrive at the pages part of settings we need to change the branch to th
 4. There are 3 main files we need to download  (index.md, _config.yml and Gemfile)
 ![Branching](the 3 files you need.png)
 
+5. Downloading the files to do this click on the file > click the three dots > download
+![Branching](download file.png)
 
-
-
+6. Return to your repo and delete the index.html file and upload the 3 files we downloaded 
+![Branching](deleteimiage.png)
 
 
 
