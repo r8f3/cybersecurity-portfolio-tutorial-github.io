@@ -79,6 +79,13 @@ once you arrive at the pages part of settings we need to change the branch to th
 7. Upload files
 ![Branching](upload file.png)
 
+8. The three files in your repository should look like this
+![Branching](all 3 files in repo.png)
+
+## Configering your website
+
+1. in your _config.yml 
+![Branching](change file title.png) 
 
 
 
